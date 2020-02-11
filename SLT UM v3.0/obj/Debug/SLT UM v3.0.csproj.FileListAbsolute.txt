@@ -1,0 +1,8 @@
+c:\users\#shap_manasick\documents\visual studio 2017\Projects\SLT UM v3.0\SLT UM v3.0\bin\Debug\SLT UM v3.0.exe.config
+c:\users\#shap_manasick\documents\visual studio 2017\Projects\SLT UM v3.0\SLT UM v3.0\bin\Debug\SLT UM v3.0.exe
+c:\users\#shap_manasick\documents\visual studio 2017\Projects\SLT UM v3.0\SLT UM v3.0\bin\Debug\SLT UM v3.0.pdb
+c:\users\#shap_manasick\documents\visual studio 2017\Projects\SLT UM v3.0\SLT UM v3.0\obj\Debug\SLT_UM_v3._0.Properties.Resources.resources
+c:\users\#shap_manasick\documents\visual studio 2017\Projects\SLT UM v3.0\SLT UM v3.0\obj\Debug\SLT UM v3.0.csproj.GenerateResource.Cache
+c:\users\#shap_manasick\documents\visual studio 2017\Projects\SLT UM v3.0\SLT UM v3.0\obj\Debug\SLT UM v3.0.exe
+c:\users\#shap_manasick\documents\visual studio 2017\Projects\SLT UM v3.0\SLT UM v3.0\obj\Debug\SLT UM v3.0.pdb
+c:\users\#shap_manasick\documents\visual studio 2017\Projects\SLT UM v3.0\SLT UM v3.0\obj\Debug\SLT_UM_v3._0.Form1.resources
